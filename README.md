@@ -45,13 +45,50 @@ Execute the programs and publish them.
 </body>
 </html>
 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>saveetha university</title>
+</head>
+<body bgcolor="black" text="white">
+    <img src="uni.jpg"height="350"width="600">
+    <p>Saveetha Institute of Medical and Technical Sciences (SIMATS), often referred to as Saveetha University, is a prominent private deemed-to-be university located in Chennai, Tamil Nadu, known for its strong focus on research, innovation, and a wide array of professional courses. Established in 2005, it has gained national and global recognition for academic excellence, particularly in medical and dental education</p>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>krishna river</title>
+</head>
+<body bgcolor="black" text="white">
+    <img src="riv.jpg" height="350"width="600">
+    <p>The Krishna River Canal at Kuthambakkam is a crucial segment of the larger Telugu Ganga Project (also known as the Krishna Water Supply Project), which is a vital inter-state water supply scheme providing drinking water to Chennai city</p>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>saveetha ground</title>
+</head>
+<body bgcolor="black" text="white">
+    <img src="gr.jpg" height="350"width="600">
+    <p>The extensive sports grounds and facilities located within the Saveetha educational campuses in Kuthambakkam, Chennai, primarily serving students of the associated institutions </p>
+</body>
+</html>
+```
+
 ## OUTPUT
-![alt text](map1.png)
-![alt text](unimap.png)
 ![alt text](groundmap.png)
-![alt text](krishnamap.png)
-
-
-
+ ![alt text](krishnamap.png)
+ ![alt text](unimap.png)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
